@@ -1,0 +1,1 @@
+./squashfs-root/BadlionClient --no-sandbox
